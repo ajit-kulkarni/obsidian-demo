@@ -1,4 +1,4 @@
-package com.chartspan;
+package com.demo;
 
 import com.carfey.ops.job.Context;
 import com.carfey.ops.job.SchedulableJob;
